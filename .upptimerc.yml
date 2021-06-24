@@ -30,6 +30,9 @@ sites:
   - name: (dev) A/B-service
     url: http://95.217.78.110:5007/abconfig/test_config
 
+workflowSchedule:
+  responseTime: "*/5 * * * *"
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
