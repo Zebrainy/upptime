@@ -15,6 +15,16 @@ sites:
     url: https://prod.zebr-a.com/ab/abconfig/test_config
   - name: IS server (prod)
     url: https://is.skazbuka.org/
+    
+  - name: Web Games DB (prod)
+    url: https://prod.zebr-a.com/squidex/cache/dc0acf63-174a-43ab-8dd4-9ee5279aea5b
+  - name: Default catalog config (prod)
+    url: https://prod.zebr-a.com/squidex/cache/27c45b39-7ab2-447c-b43c-4da9a2fbd271
+  - name: 40% catalog config (prod)
+    url: https://prod.zebr-a.com/squidex/cache/7e9e3f0d-7f40-4df7-a806-f04ae30f16b7
+  - name: 10% catalog config (prod)
+    url: https://prod.zebr-a.com/squidex/cache/f8e52246-0c62-4263-b2bd-20d5418884d5
+    
   - name: (dev) Latest versions
     url: https://prod.zebr-a.com/squidex/cache/b6b3b942-77fd-4417-ba91-0879a2c0c5a7?draft=1
   - name: (dev) A/B-service
