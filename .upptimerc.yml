@@ -32,8 +32,10 @@ sites:
   - name: (dev) A/B-service
     url: http://95.217.78.110:5007/abconfig/test_config
     
-  - name: (regression) latest dev 7.7.6
-    url: https://prod.zebr-a.com/latest/config/7.7.6/?dev=1
+  - name: latest 7.7.6
+    url: https://prod.zebr-a.com/latest/config/7.7.6
+  - name: latest 7.7.7
+    url: https://prod.zebr-a.com/latest/config/7.7.7
 
 workflowSchedule:
   responseTime: "*/5 * * * *"
