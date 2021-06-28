@@ -9,7 +9,7 @@ sites:
     url: https://api-7872423500061383086-499814.firebaseio.com/config/urls/v3.json
   - name: Latest versions (prod)
     url: https://prod.zebr-a.com/latest/config
-  - name: Latest versions (prod-squidex)
+  - name: Supported client versions (prod-squidex)
     url: https://prod.zebr-a.com/squidex/cache/b6b3b942-77fd-4417-ba91-0879a2c0c5a7
   - name: A/B-service
     url: https://prod.zebr-a.com/ab/abconfig/test_config
