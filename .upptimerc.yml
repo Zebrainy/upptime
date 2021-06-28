@@ -31,6 +31,9 @@ sites:
     url: https://prod.zebr-a.com/squidex/cache/b6b3b942-77fd-4417-ba91-0879a2c0c5a7?draft=1
   - name: (dev) A/B-service
     url: http://95.217.78.110:5007/abconfig/test_config
+    
+  - name: (regression) latest dev 7.7.6
+    url: https://prod.zebr-a.com/latest/config/7.7.6/?dev=1
 
 workflowSchedule:
   responseTime: "*/5 * * * *"
