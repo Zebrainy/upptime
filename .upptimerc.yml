@@ -40,6 +40,8 @@ sites:
     url: https://prod.zebr-a.com/latest/config/7.7.7
   - name: latest 7.7.8
     url: https://prod.zebr-a.com/latest/config/7.7.8
+  - name: latest 8.0.0
+    url: https://prod.zebr-a.com/latest/config/8.0.0
     
   - name: Game Server Stripe Billing (prod)
     url: https://api.skazbuka.org/api/Billing/stripe?language=Rus
