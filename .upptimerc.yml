@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Game Server (prod)
     url: https://api.skazbuka.org/api/Version
+  - name: Game Server Proxy (prod)
+    url: https://proxy.zebr-a.com/api/Version
   - name: Firebase URLs (prod)
     url: https://api-7872423500061383086-499814.firebaseio.com/config/urls/v3.json
   - name: Latest versions (prod)
