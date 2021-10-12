@@ -5,8 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Game Server (prod)
     url: https://api.skazbuka.org/api/Version
+  - name: IS server (prod)
+    url: https://is.skazbuka.org/
   - name: Game Server Proxy (prod)
     url: https://proxy.zebr-a.com/api/Version
+  - name: IS server Proxy (prod)
+    url: https://proxy.zebr-a.com/auth/
   - name: Firebase URLs (prod)
     url: https://api-7872423500061383086-499814.firebaseio.com/config/urls/v3.json
   - name: Latest versions (prod)
@@ -19,8 +23,7 @@ sites:
     url: https://prod.zebr-a.com/squidex/cache/63b8e574-6ee8-4bda-bbbb-8cab184f4db9
   - name: A/B-service
     url: https://prod.zebr-a.com/ab/abconfig/test_config
-  - name: IS server (prod)
-    url: https://is.skazbuka.org/
+
     
   - name: Web Games DB (prod)
     url: https://prod.zebr-a.com/squidex/cache/dc0acf63-174a-43ab-8dd4-9ee5279aea5b
