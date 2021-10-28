@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Game Server (prod)
-    url: https://api.skazbuka.org/api/Version
+    url: https://api-nl.skazbuka.org/api/Version
   - name: IS server (prod)
-    url: https://is.skazbuka.org/
+    url: https://is-nl.skazbuka.org/
   - name: Game Server Proxy (prod)
     url: https://proxy.zebr-a.com/api/Version
   - name: IS server Proxy (prod)
