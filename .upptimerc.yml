@@ -13,6 +13,8 @@ sites:
     url: https://proxy.zebr-a.com/auth/
   - name: Firebase URLs (prod)
     url: https://api-7872423500061383086-499814.firebaseio.com/config/urls/v3.json
+  - name: Web Subs (Firebase)
+    url: https://subs.zebrainy.net/
   - name: Latest versions (prod)
     url: https://prod.zebr-a.com/latest/config
   - name: Latest versions (prod-squidex)
