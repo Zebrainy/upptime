@@ -25,6 +25,8 @@ sites:
     url: https://prod.zebr-a.com/squidex/cache/63b8e574-6ee8-4bda-bbbb-8cab184f4db9
   - name: A/B-service
     url: https://prod.zebr-a.com/ab/abconfig/test_config
+  - name: Client init service
+    url: https://prod.zebr-a.com/client-init-service
 
     
   - name: Web Games DB (prod)
