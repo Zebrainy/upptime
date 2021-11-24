@@ -1,7 +1,7 @@
 url: https://prod.zebr-a.com/ab/abconfig/test_config
-status: down
-code: 500
-responseTime: 120
-lastUpdated: 2021-11-24T12:05:34.765Z
+status: up
+code: 200
+responseTime: 295
+lastUpdated: 2021-11-24T12:17:31.299Z
 startTime: Wed Jun 23 2021 08:27:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
