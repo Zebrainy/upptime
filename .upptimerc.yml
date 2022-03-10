@@ -55,6 +55,11 @@ sites:
   - name: Game Server Stripe Billing (prod)
     url: https://api.skazbuka.org/api/Billing/stripe?language=Rus
 
+  - name: Selectel CDN
+    url: https://6a39d29f-7919-4a2c-b54e-f8066f9effbb.selcdn.net/
+  - name: Mircloud CDN
+    url: https://skazbuka-mircloud.gcdn.co/master/upptime.txt
+
 workflowSchedule:
   responseTime: "*/5 * * * *"
 
