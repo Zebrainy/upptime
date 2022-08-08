@@ -11,8 +11,6 @@ sites:
     url: https://proxy.zebr-a.com/api/Version
   - name: IS server Proxy (prod)
     url: https://proxy.zebr-a.com/auth/
-  - name: Firebase URLs (prod)
-    url: https://api-7872423500061383086-499814.firebaseio.com/config/urls/v3.json
   - name: Web Subs (Firebase)
     url: https://subs.zebrainy.net/
   - name: Latest versions (prod)
@@ -31,26 +29,20 @@ sites:
     
   - name: Web Games DB (prod)
     url: https://prod.zebr-a.com/squidex/cache/dc0acf63-174a-43ab-8dd4-9ee5279aea5b
-  - name: Default catalog config (prod)
-    url: https://prod.zebr-a.com/squidex/cache/27c45b39-7ab2-447c-b43c-4da9a2fbd271
-  - name: 40% catalog config (prod)
-    url: https://prod.zebr-a.com/squidex/cache/7e9e3f0d-7f40-4df7-a806-f04ae30f16b7
-  - name: 10% catalog config (prod)
-    url: https://prod.zebr-a.com/squidex/cache/f8e52246-0c62-4263-b2bd-20d5418884d5
+  - name: prod-multilevel-catalog (prod)
+    url: https://prod.zebr-a.com/squidex/cache/f9948d3a-7fff-4521-8747-bb67699406aa
     
   - name: (dev) Latest versions
     url: https://prod.zebr-a.com/squidex/cache/b6b3b942-77fd-4417-ba91-0879a2c0c5a7?draft=1
   - name: (dev) A/B-service
-    url: http://95.217.78.110:5007/abconfig/test_config
+    url: https://prod.zebr-a.com/squidex/cache/d28bb12d-727e-42a1-a57c-917c8c8a875c
     
-  - name: latest 7.7.6
-    url: https://prod.zebr-a.com/latest/config/7.7.6
-  - name: latest 7.7.7
-    url: https://prod.zebr-a.com/latest/config/7.7.7
-  - name: latest 7.7.8
-    url: https://prod.zebr-a.com/latest/config/7.7.8
-  - name: latest 8.0.0
-    url: https://prod.zebr-a.com/latest/config/8.0.0
+  - name: latest 8.4.3
+    url: https://prod.zebr-a.com/latest/config/8.4.3
+  - name: latest 8.4.4
+    url: https://prod.zebr-a.com/latest/config/8.4.4
+  - name: latest 8.4.5
+    url: https://prod.zebr-a.com/latest/config/8.4.5
     
   - name: Game Server Stripe Billing (prod)
     url: https://api.skazbuka.org/api/Billing/stripe?language=Rus
