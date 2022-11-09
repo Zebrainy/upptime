@@ -9,12 +9,18 @@ sites:
     url: https://is-nl.skazbuka.org/
   - name: Game Server Proxy (prod)
     url: https://proxy.zebr-a.com/api/Version
+  - name: Game Server Proxy (prod ru)
+    url: https://proxy-ru.zebr-a.com/api/Version
   - name: IS server Proxy (prod)
     url: https://proxy.zebr-a.com/auth/
   - name: Web Subs (Firebase)
     url: https://subs.zebrainy.net/
   - name: Latest versions (prod)
     url: https://prod.zebr-a.com/latest/config
+  - name: Latest versions (prod ru)
+    url: https://prod-ru.zebr-a.com/latest/config
+  - name: Latest versions (prod-ru-squidex)
+    url: https://prod-ru.zebr-a.com/squidex/cache/6402afa4-b358-4d06-875d-d3fc1f3f78cd
   - name: Latest versions (prod-squidex)
     url: https://prod.zebr-a.com/squidex/cache/6402afa4-b358-4d06-875d-d3fc1f3f78cd
   - name: Supported client versions (prod-squidex)
@@ -23,8 +29,12 @@ sites:
     url: https://prod.zebr-a.com/squidex/cache/63b8e574-6ee8-4bda-bbbb-8cab184f4db9
   - name: A/B-service
     url: https://prod.zebr-a.com/ab/abconfig/test_config
+  - name: A/B-service ru
+    url: https://prod-ru.zebr-a.com/ab/abconfig/test_config
   - name: Client init service
     url: https://prod.zebr-a.com/client-init-service
+  - name: Client init service ru
+    url: https://prod-ru.zebr-a.com/client-init-service
 
     
   - name: Web Games DB (prod)
@@ -37,12 +47,14 @@ sites:
   - name: (dev) A/B-service
     url: https://prod.zebr-a.com/squidex/cache/d28bb12d-727e-42a1-a57c-917c8c8a875c
     
-  - name: latest 8.4.3
-    url: https://prod.zebr-a.com/latest/config/8.4.3
-  - name: latest 8.4.4
-    url: https://prod.zebr-a.com/latest/config/8.4.4
-  - name: latest 8.4.5
-    url: https://prod.zebr-a.com/latest/config/8.4.5
+  - name: latest 8.4.7
+    url: https://prod.zebr-a.com/latest/config/8.4.7
+  - name: latest 8.4.8
+    url: https://prod.zebr-a.com/latest/config/8.4.8
+  - name: latest 8.4.9
+    url: https://prod.zebr-a.com/latest/config/8.4.9
+  - name: latest 8.4.9 ru
+    url: https://prod-ru.zebr-a.com/latest/config/8.4.9
     
   - name: Game Server Stripe Billing (prod)
     url: https://api.skazbuka.org/api/Billing/stripe?language=Rus
@@ -51,6 +63,10 @@ sites:
     url: https://6a39d29f-7919-4a2c-b54e-f8066f9effbb.selcdn.net/
   - name: Mircloud CDN
     url: https://skazbuka-mircloud.gcdn.co/master/upptime.txt
+  - name: Cloudflare WebBundle CDN
+    url: https://cdn.zebr-a.tech/web-bundles/bundles/catalog-demian-horizontal/1.0.0/manifest.json
+  - name: Cloudflare Internal CDN
+    url: https://internal.zebr-a.tech/test/empty.json
 
 workflowSchedule:
   responseTime: "*/5 * * * *"
