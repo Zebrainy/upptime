@@ -39,8 +39,8 @@ sites:
     
   - name: Web Games DB (prod)
     url: https://prod.zebr-a.com/squidex/cache/dc0acf63-174a-43ab-8dd4-9ee5279aea5b
-  - name: prod-multilevel-catalog (prod)
-    url: https://prod.zebr-a.com/squidex/cache/f9948d3a-7fff-4521-8747-bb67699406aa
+  - name: multilevel-catalog-new-games-paywall (prod)
+    url: https://prod.zebr-a.com/squidex/cache/58507d07-0d32-4815-8264-75fa327363d2
     
   - name: (dev) Latest versions
     url: https://prod.zebr-a.com/squidex/cache/b6b3b942-77fd-4417-ba91-0879a2c0c5a7?draft=1
@@ -59,8 +59,6 @@ sites:
 
   - name: Selectel CDN
     url: https://6a39d29f-7919-4a2c-b54e-f8066f9effbb.selcdn.net/
-  - name: Mircloud CDN
-    url: https://skazbuka-mircloud.gcdn.co/master/upptime.txt
   - name: Cloudflare WebBundle CDN
     url: https://cdn.zebr-a.tech/web-bundles/bundles/catalog-demian-horizontal/1.0.0/manifest.json
   - name: Cloudflare Internal CDN
