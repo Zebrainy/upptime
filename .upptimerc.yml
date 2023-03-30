@@ -36,6 +36,20 @@ sites:
   - name: Client init service ru
     url: https://prod-ru.zebr-a.com/client-init-service
 
+  - name: Dev Client init service health
+    url: http://dev.zebr-a.com/client-init-service/v2/health
+    expectedStatusCodes:
+      - 200
+  - name: Prod Client init service health
+    url: http://prod.zebr-a.com/client-init-service/v2/health
+    expectedStatusCodes:
+      - 200
+
+  - name: Prod ru Client init service health
+    url: http://prod-ru.zebr-a.com/client-init-service/v2/health
+    expectedStatusCodes:
+      - 200
+
     
   - name: Web Games DB (prod)
     url: https://prod.zebr-a.com/squidex/cache/dc0acf63-174a-43ab-8dd4-9ee5279aea5b
