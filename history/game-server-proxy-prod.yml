@@ -1,7 +1,7 @@
 url: https://proxy.zebr-a.com/api/Version
-status: down
-code: 502
-responseTime: 360
-lastUpdated: 2023-03-30T13:11:39.394Z
+status: up
+code: 200
+responseTime: 425
+lastUpdated: 2023-03-30T13:15:29.936Z
 startTime: Tue Oct 12 2021 09:39:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
