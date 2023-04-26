@@ -50,6 +50,16 @@ sites:
     expectedStatusCodes:
       - 200
 
+  - name: Dev Yandex service health auth check
+    url: https://dev.zebr-a.com/yandex/health/authCheck
+    expectedStatusCodes:
+      - 200
+
+  - name: Prod Yandex service health auth check
+    url: https://prod.zebr-a.com/yandex/health/authCheck
+    expectedStatusCodes:
+      - 200
+
     
   - name: Web Games DB (prod)
     url: https://prod.zebr-a.com/squidex/cache/dc0acf63-174a-43ab-8dd4-9ee5279aea5b
