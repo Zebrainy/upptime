@@ -1,7 +1,7 @@
 url: http://prod.zebr-a.com/client-init-service/v2/health
-status: down
-code: 400
-responseTime: 478
-lastUpdated: 2023-05-09T15:46:35.256Z
+status: up
+code: 200
+responseTime: 2108
+lastUpdated: 2023-05-09T15:53:04.509Z
 startTime: Thu Mar 30 2023 11:20:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
