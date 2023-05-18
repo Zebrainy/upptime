@@ -1,7 +1,7 @@
 url: https://api.skazbuka.org/api/Billing/stripe?language=Rus
 status: up
 code: 200
-responseTime: 1345
-lastUpdated: 2023-05-18T09:00:56.067Z
+responseTime: 1126
+lastUpdated: 2023-05-18T09:09:26.954Z
 startTime: Wed Jul 07 2021 14:33:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
