@@ -1,7 +1,7 @@
 url: https://api-nl.skazbuka.org/api/Version
 status: down
-code: 504
-responseTime: 15911
-lastUpdated: 2023-06-21T17:26:46.230Z
+code: 503
+responseTime: 865
+lastUpdated: 2023-06-21T17:38:50.194Z
 startTime: Wed Jun 23 2021 09:19:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
