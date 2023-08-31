@@ -1,7 +1,7 @@
 url: https://prod.zebr-a.com/platform/api/version
-status: down
-code: 404
-responseTime: 437
-lastUpdated: 2023-08-31T10:39:54.547Z
+status: up
+code: 200
+responseTime: 429
+lastUpdated: 2023-08-31T10:42:40.350Z
 startTime: 2021-06-23T09:19:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
