@@ -1,7 +1,7 @@
 url: https://prod-ru.zebr-a.com/latest/config
-status: down
-code: 400
-responseTime: 1560
-lastUpdated: 2023-09-04T05:43:46.058Z
+status: up
+code: 200
+responseTime: 818
+lastUpdated: 2023-09-04T05:49:15.566Z
 startTime: 2022-11-09T13:42:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
