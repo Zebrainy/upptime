@@ -88,13 +88,6 @@ sites:
   - name: Cloudflare Internal CDN
     url: https://internal.zebr-a.tech/test/empty.json
 
-  - name: Catalog Config Dev Draft
-    url: https://windmill.dev.zebr-a.com/api/w/skazbuka/jobs/run/p/u/hosting/validate_catalog_config
-    headers:
-        - "Authorization: Bearer $WINDMILL_TOKEN"
-        - "Content-Type: application/json"
-    body: '{ "cfg": "https://dev.zebr-a.com/squidex/cache/1f9a1bd2-0ae2-4f62-9fed-f637b478f6c0?draft=true" }'
-
 workflowSchedule:
   responseTime: "*/5 * * * *"
 
