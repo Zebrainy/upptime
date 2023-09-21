@@ -98,7 +98,7 @@ sites:
     body: '{ "url": "https://dev.zebr-a.com/squidex/cache/1f9a1bd2-0ae2-4f62-9fed-f637b478f6c0?draft=true" }'
 
   - name: Catalog Config Prod multilevel-catalog-new-games-paywall
-    url: https://windmill.dev.zebr-a.com/api/w/skazbuka/jobs/run_wait_result/f/u/hosting/validate_catalog_by_url
+    url: https://windmill.prod.zebr-a.com/api/w/skazbuka/jobs/run_wait_result/f/u/hosting/validate_catalog_by_url
     headers:
         - "Authorization: Bearer $WINDMILL_TOKEN"
         - "Content-Type: application/json"
@@ -106,7 +106,7 @@ sites:
     body: '{ "url": "https://dev.zebr-a.com/squidex/cache/58507d07-0d32-4815-8264-75fa327363d2" }'
 
   - name: Catalog Config Prod multilevel-catalog-new-games-paywall-v2
-    url: https://windmill.dev.zebr-a.com/api/w/skazbuka/jobs/run_wait_result/f/u/hosting/validate_catalog_by_url
+    url: https://windmill.prod.zebr-a.com/api/w/skazbuka/jobs/run_wait_result/f/u/hosting/validate_catalog_by_url
     headers:
         - "Authorization: Bearer $WINDMILL_TOKEN"
         - "Content-Type: application/json"
