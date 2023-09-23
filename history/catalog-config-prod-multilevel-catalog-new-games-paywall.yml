@@ -1,7 +1,7 @@
 url: https://windmill.prod.zebr-a.com/api/w/skazbuka/jobs/run_wait_result/f/u/hosting/validate_catalog_by_url
 status: down
 code: 401
-responseTime: 604
-lastUpdated: 2023-09-23T22:25:15.425Z
+responseTime: 583
+lastUpdated: 2023-09-23T22:31:52.384Z
 startTime: 2023-09-11T12:14:11.909Z
 generator: Upptime <https://github.com/upptime/upptime>
