@@ -32,7 +32,7 @@ sites:
   - name: A/B-service ru
     url: https://prod-ru.zebr-a.com/ab/abconfig/test_config
   - name: Client init service
-    url: https://prod.zebr-a.com-kek-client-init-service
+    url: https://prod.zebr-a.com/client-init-service
   - name: Client init service ru
     url: https://prod-ru.zebr-a.com/client-init-service
 
