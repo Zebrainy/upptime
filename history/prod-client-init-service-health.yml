@@ -1,7 +1,7 @@
 url: http://prod.zebr-a.com/client-init-service/v2/health
 status: down
 code: 400
-responseTime: 1164
-lastUpdated: 2023-11-02T04:36:15.538Z
+responseTime: 992
+lastUpdated: 2023-11-02T04:43:19.676Z
 startTime: 2023-03-30T11:20:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
