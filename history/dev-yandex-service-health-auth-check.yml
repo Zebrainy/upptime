@@ -1,7 +1,7 @@
 url: https://dev.zebr-a.com/yandex/health/authCheck
-status: down
-code: 400
-responseTime: 711
-lastUpdated: 2023-11-09T10:47:24.357Z
+status: up
+code: 200
+responseTime: 1402
+lastUpdated: 2023-11-09T10:52:48.227Z
 startTime: 2023-04-26T15:29:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
