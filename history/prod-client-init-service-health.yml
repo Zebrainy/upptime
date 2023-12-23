@@ -1,7 +1,7 @@
 url: http://prod.zebr-a.com/client-init-service/v2/health
 status: up
 code: 200
-responseTime: 2126
-lastUpdated: 2023-12-23T17:47:59.096Z
+responseTime: 979
+lastUpdated: 2023-12-23T17:54:47.665Z
 startTime: 2023-03-30T11:20:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
