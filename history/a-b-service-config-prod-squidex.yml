@@ -1,7 +1,7 @@
 url: https://prod.zebr-a.com/squidex/cache/63b8e574-6ee8-4bda-bbbb-8cab184f4db9
-status: down
-code: 400
-responseTime: 23164
-lastUpdated: 2024-03-29T11:08:40.266Z
+status: up
+code: 200
+responseTime: 145
+lastUpdated: 2024-03-29T11:20:55.298Z
 startTime: 2021-07-09T11:49:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
